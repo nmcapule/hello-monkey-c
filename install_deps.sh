@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Lifted from:
+# https://github.com/cedric-dufour/connectiq-sdk-docker/blob/master/Dockerfile
+
 export CIQ_SDK_VERSION="6.2.1"
 
 export CIQ_SDK_DOWNLOAD_URL="https://developer.garmin.com/downloads/connect-iq"
